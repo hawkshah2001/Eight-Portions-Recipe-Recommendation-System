@@ -22,7 +22,7 @@ Picture: An image of the resulting dish (available for roughly 70,000 recipes).
 This rich dataset provides multiple elements for each recipe, making it suitable for various machine learning applications, such as recipe prediction, summarization, and generation.
 
 
-#Data Pre-Processing
+Data Pre-Processing
 
 Stop-Words Removal: Removed common English stop-words, specific terms like "Advertisement" and "Want," and numerical values to clean the text data.
 Vectorization: Utilized CountVectorizer to transform text data into a matrix of token counts.
@@ -34,7 +34,7 @@ BertTopic Model: Applied the BertTopic model to generate various topics from the
 String Combination: Merged the title, ingredients, and instructions of each recipe into a single string to streamline the analysis and recommendation process.
 
 
-#Visualizations
+Visualizations
 
 Word Cloud: Created word clouds to visually represent the most frequent terms in the recipe dataset.
 
