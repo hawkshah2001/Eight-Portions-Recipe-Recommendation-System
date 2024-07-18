@@ -25,7 +25,9 @@ Cosine Similarity Calculation: Computed cosine similarities between word vectors
 Modeling:
 
 BertTopic Model: Applied the BertTopic model to generate various topics from the text data, enabling the system to understand and categorize different recipe components effectively.
+
 String Combination: Merged the title, ingredients, and instructions of each recipe into a single string to streamline the analysis and recommendation process.
+
 Visualizations:
 
 Word Cloud: Created word clouds to visually represent the most frequent terms in the recipe dataset.
